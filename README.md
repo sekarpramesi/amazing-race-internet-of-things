@@ -4,7 +4,7 @@ Arduino and Android based rally game -- Implementation of the Internet of Things
 --(English version not available yet!)
 
 ID:
-Rally game berbasis Arduino dan Android--Implementasi konsep Internet of Things
+Rally game berbasis Arduino dan Android--Implementasi konsep Internet of Things dengan MIT AppInventor2
 --Untuk informasi yang lebih lengkap, silahkan lihat dokumen Word berjudul "Dokumentasi.docx"
 
 
